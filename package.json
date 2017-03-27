@@ -1,5 +1,5 @@
 {
-  "name": "brigadehub-public-c4sf",
+  "name": "brigadehub-public-c4sf-opensavannah",
   "version": "0.3.11",
   "description": "Public theme for Brigadehub, developed for Code for San Francisco, based on Code for Poland",
   "main": "index.js",
@@ -35,7 +35,7 @@
     "skin",
     "theme"
   ],
-  "author": "Ozzy Haven <npm@therebelrobot.com> (@therebelrobot)",
+  "author": "Perry Taylor <pltaylor3@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/brigadehub/theme-public-c4sf/issues"
