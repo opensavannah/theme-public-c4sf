@@ -3,6 +3,15 @@ extends ../layout
 block content
   .page-header
     h3 Sign in
+    p
+      |We use 
+      a(href='http://github.com') GitHub 
+      | for project management, documentation, registration and code storage. Already have a GitHub account?
+      |  Just select the 'Sign in with GitHub' button to join the 
+      brigade.name 
+      | brigade.  Never heard of GitHub or don't have an account there yet? No problem. Just 
+      a(href='http://github.com/join') create one now.
+      |   It only takes a few seconds to do, then just come back to this page to log in with your new GitHub account.
   form.form-horizontal(method='POST')
     input(type='hidden', name='_csrf', value=_csrf)
     //- .form-group
