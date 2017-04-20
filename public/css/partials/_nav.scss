@@ -67,8 +67,17 @@ nav.navbar {
 
           @include animation(padding-top, $scroll-transition, ease-in-out);
         }
-      }
+      } 
+    }   
+
+    .nav-link a{
+      color: hsl(0, 0%, 50%);
     }
+
+    .nav-link:hover a{
+    color: hsl(0, 0%, 10%);
+    }
+
   }
   a {
     height: 100%;
