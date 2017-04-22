@@ -1,6 +1,6 @@
 {
   "name": "brigadehub-public-c4sf-opensavannah",
-  "version": "0.3.46",
+  "version": "0.3.47",
   "description": "Public theme for Open Savannah, powered by BrigadeHub",
   "main": "index.js",
   "scripts": {
@@ -23,10 +23,10 @@
     "america",
     "c4a",
     "cfa",
-    "c4sf",
-    "cfsf",
-    "san",
-    "francisco",
+    "opensav",
+    "opensavannah",
+    "open",
+    "savannah",
     "cms",
     "datahub",
     "data",
