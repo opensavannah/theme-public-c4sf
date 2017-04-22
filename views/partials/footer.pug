@@ -22,19 +22,19 @@ footer
          li#menu-item-385.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-385
           a(href='https://facebook.com/opensavannah') 
             i.fa.fa-facebook(aria-hidden='true')
-        if brigade.theme.page.projects
+         if brigade.theme.page.projects
           li
             a(href='/projects') Projects
-        if brigade.theme.page.blog
+         if brigade.theme.page.blog
           li
             a(href='/blog') Blog
-        each external in brigade.theme.page.external
+         each external in brigade.theme.page.external
           li
             a(href=external.link, target=external.target)=external.name
-        if brigade.theme.page.about
+         if brigade.theme.page.about
           li
             a(href='/contact') Contact
 
       
-        li.float.right
+         li.float.right
           a(href='https://brigadehub.github.io/') powered by BrigadeHub
