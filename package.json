@@ -1,7 +1,7 @@
 {
   "name": "brigadehub-public-c4sf-opensavannah",
-  "version": "0.3.42",
-  "description": "Public theme for Brigadehub, developed for Code for San Francisco, based on Code for Poland",
+  "version": "0.3.43",
+  "description": "Public theme for Open Savannah, powered by BrigadeHub",
   "main": "index.js",
   "scripts": {
     "postinstall": "npm run build",
