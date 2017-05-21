@@ -1,6 +1,6 @@
 {
   "name": "brigadehub-public-c4sf-opensavannah",
-  "version": "0.3.51",
+  "version": "0.3.52",
   "description": "Public theme for Open Savannah, powered by BrigadeHub",
   "main": "index.js",
   "scripts": {
@@ -36,6 +36,7 @@
     "theme"
   ],
   "author": "Perry Taylor <pltaylor3@gmail.com>",
+  "contributors": "Carl V. Lewis <carl@carlvlewis.net",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/brigadehub/theme-public-c4sf/issues"
