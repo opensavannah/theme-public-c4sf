@@ -1,6 +1,6 @@
 {
   "name": "brigadehub-public-c4sf-opensavannah",
-  "version": "0.3.54",
+  "version": "0.3.55",
   "description": "Public theme for Open Savannah, powered by BrigadeHub",
   "main": "index.js",
   "scripts": {
